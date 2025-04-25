@@ -37,8 +37,8 @@ A full-stack API built with Node.js, Express, TypeScript, Prisma, and PostgreSQL
 
 ### 1. Clone and Install Dependencies
 ```bash
-git clone https://github.com/your-repo/employee-salary-api
-cd employee-salary-api
+git clone https://github.com/sandeepgautam213/employee-salaries-records.git
+cd employee-salaries-records
 npm install
 ```
 
@@ -74,8 +74,8 @@ Server will run at: http://localhost:3000
 POST /auth/login
 Body (JSON):
 {
-  "email": "hr@example.com",
-  "password": "password123"
+  "email": "hr@codetommorow.com",
+  "password": "admin123"
 }
 ```
 
@@ -176,9 +176,6 @@ GET /payroll/history?month=2025-04
 ---
 
 ## 📧 Contact
-For any queries: hr@codesfortomorrow.com
+For any queries: gautamsandeep213@gmail.com
 
 ---
-
-Happy Building! 💼
-
